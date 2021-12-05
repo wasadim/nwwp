@@ -1,0 +1,2 @@
+# nwwp
+zadanie na laby
